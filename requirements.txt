@@ -1,0 +1,5 @@
+vizdoom
+numpy
+imageio
+tqdm
+torch
